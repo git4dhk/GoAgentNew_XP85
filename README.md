@@ -1,5 +1,3 @@
-goagent 3.2.2 正式版下载 [http://git.io/goa](https://nodeload.github.com/goagent/goagent/legacy.zip/3.0)
-
 ## 公告
 目前 pagespeed 选项已经失效，请关闭 [gae]pagespeed 以后使用。
 
